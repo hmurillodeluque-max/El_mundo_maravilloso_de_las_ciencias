@@ -1,6 +1,6 @@
 # 🌍 El Mundo Maravilloso de las Ciencias
 
-![Banner](https://raw.githubusercontent.com/hmurillodeluque-max/El_mundo_maravilloso_de_las_ciencias/main/assets/banner.png)
+![Banner](assets/banner.png)
 
 ## 📚 Descripción del repositorio
 Este repositorio es una colección **educativa y didáctica** que reúne recursos multimedia, documentos PDF, notas en Markdown y guías interactivas para estudiantes de ciencias. Cada carpeta está organizada por temática y contiene:
@@ -34,7 +34,7 @@ Este repositorio es una colección **educativa y didáctica** que reúne recurso
 ## 📸 Imágenes ilustrativas
 > Las imágenes se encuentran en la carpeta `assets/` y se usan en este README para mejorar la experiencia visual.
 
-![Célula ilustrada](https://raw.githubusercontent.com/hmurillodeluque-max/El_mundo_maravilloso_de_las_ciencias/main/La_Celula/Presentación%20-%20Biologia%20C%C3%A9lula%20Ilustrada%20Colorida.pdf)
+![Célula ilustrada](assets/CelulaAnimada.png)
 
 ## 🚀 Cómo empezar
 1. **Clona el repositorio**:
