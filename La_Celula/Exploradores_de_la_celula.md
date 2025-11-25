@@ -1,4 +1,4 @@
-# Exploradores de la celula 
+# Exploradores de la célula 
  Este genially esta orientada a estudiantes de primaria, centrada en la célula como unidad fundamental de los seres vivos. El contenido se
 estructura en torno a cuatro ejes: el estudio de la célula, la identificación de sus organelos, la
 clasificación entre células eucariotas y procariotas, y la diferenciación entre célula animal y
@@ -11,5 +11,5 @@ gamificadas. Los criterios de evaluación se orientan hacia la comprensión de l
 participación activa en las actividades digitales, la autonomía en el trabajo y la capacidad de
 reflexión crítica sobre los aprendizajes alcanzados. 
 
-Ven y exploremos juntos el mundo de la celula dando click a la siguiente imagen. 
+Ven y exploremos juntos el mundo de la célula dando click a la siguiente imagen. 
 [![Genially](IMAGEN1.png)](https://view.genially.com/686c7fad145078e6eecf0506/presentation-exploradores-de-la-celula-2)
